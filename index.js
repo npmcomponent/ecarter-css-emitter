@@ -2,7 +2,7 @@
  * Module Dependencies
  */
 
-var events = require('event');
+var events = require('component-event');
 
 // CSS events
 
